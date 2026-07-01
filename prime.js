@@ -18,7 +18,7 @@ const isPrime = (num) => {
 
 let number = 11;
 if (isPrime(number)) {
-    console.log(number + " is prime");
+    console.log(number + " is a prime number");
 } else {
-    console.log(number + " is not prime");
+    console.log(number + " is not a prime number");
 }
